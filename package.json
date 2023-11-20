@@ -31,7 +31,6 @@
     "inquirer": "^8.0.0",
     "merge-package.json": "^4.0.0",
     "npm-package-arg": "^8.0.1",
-    "npx": "^10.2.0",
     "open": "^8.0.0",
     "p-reduce": "^3.0.0",
     "pacote": "^13.5.0",
